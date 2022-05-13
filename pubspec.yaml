@@ -17,7 +17,7 @@ dependencies:
   tflite_flutter:
     git: 
       url: https://github.com/ingenio-solns/tflite_flutter_plugin.git
-      ref: 7c3a314
+      ref: e46a2735483f66feba742ddc76dc48f63168ccc0
   tuple: ^2.0.0
   camera: ^0.9.4+16
   ffi: ^1.0.0
