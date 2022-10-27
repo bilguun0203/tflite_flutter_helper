@@ -16,11 +16,11 @@ dependencies:
   path_provider: ^2.0.1
   tflite_flutter:
     git: 
-      url: https://github.com/ingenius-solutions/tflite_flutter_plugin.git
-      ref: e46a2735483f66feba742ddc76dc48f63168ccc0
-  tuple: ^2.0.0
+      url: https://github.com/bilguun0203/tflite_flutter_plugin.git
+      ref: v0.10.0
+  tuple: ^2.0.1
   camera: ^0.9.4+16
-  ffi: ^1.0.0
+  ffi: ^2.0.1
   image: ^3.0.2
 dev_dependencies:
   flutter_test:
