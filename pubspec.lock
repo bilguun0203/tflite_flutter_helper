@@ -361,8 +361,8 @@ packages:
     dependency: "direct main"
     description:
       path: "."
-      ref: "v0.10.1"
-      resolved-ref: "510e28999705b262fcaacdf81bfc4998d6487859"
+      ref: "v0.10.2"
+      resolved-ref: f2d009fb5db5d62b011b9efb7f704bc73805d7da
       url: "https://github.com/bilguun0203/tflite_flutter_plugin.git"
     source: git
     version: "0.10.0"
